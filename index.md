@@ -12,7 +12,12 @@ For my research interests, I am interested at the intersection of computer visio
 For some of my previous experience:
 
 - Edit-History Vis：An Interactive Visual Exploration and Analysis on Wikipedia Edit History (**submitted to VIS'22**, 2021.10 - 2022.4)
+
+  <img src="doc/wiki.png" alt="image-20220420201524192" style="zoom:20%;" />
+
 - Rhythm-oriented Co-speech Gesture Synthesis (2021.08 - 2022.4)
+
+  <img src="doc/gesturegeneration.png" alt="image-20220420201135947" style="zoom:40%;" />
 
 
 
