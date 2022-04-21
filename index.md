@@ -7,7 +7,7 @@ I'm Yuke Lou, an undergraduate student (expected to graduate in 2023) from Turin
 # Research Experience
 Currently, I'm conducting research at [Visual Computing And Learning (VCL) lab](http://vcl.pku.edu.cn/index.html) under the supervision of [Prof. Baoquan Chen](https://scholar.google.com/citations?user=iHWtrEAAAAAJ&hl=zh-CN) and [Prof. Libin Liu](https://scholar.google.com/citations?hl=zh-CN&user=q7FiLBkAAAAJ). 
 
-For my research interests, I am interested at the intersection of computer vision, computer graphics. In particular, my current research focus on motion generation.
+For my research interests, I am interested in the intersection of computer graphics and computer vision. In particular, my current research focuses on motion synthesis.
 
 For some of my previous experience:
 
