@@ -15,7 +15,7 @@ For some of my previous experience:
 
   <img src="doc/wiki.png" alt="image-20220420201524192" style="zoom:20%;" />
 
-- Rhythm-oriented Co-speech Gesture Synthesis (2021.08 - 2022.5)
+- Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings (2021.08 - 2022.5)
 
   <img src="doc/gesturegeneration.png" alt="image-20220420201135947" style="zoom:40%;" />
 
@@ -31,4 +31,11 @@ For some of my previous experience:
 
 
 # Skills
+
 **Languages**: Python, C/C++, C#, JavaScript
+
+
+
+# More about me
+
+Wechat official account: Thorin的快乐生活
